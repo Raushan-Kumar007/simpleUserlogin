@@ -1,0 +1,22 @@
+body{
+   font-family: sans-serif;
+}
+
+ form{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+ input{
+     width: 20%;
+     height: 20px;
+     margin: 2px;
+ }
+ .btn{
+    width: 20%;
+    height: 25px;
+    margin: 2px;
+    background-color: aqua;
+    
+ }
+  
